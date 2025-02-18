@@ -29,8 +29,10 @@ SQL | Python | ML | Looker Studio | Power BI | Google BigQuery | Google Sheets |
 
 ### ⚡️ My Stats:
 Coming soon...
-<div align="left">
-  <img height=100 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbeabrowne&layout=compact&theme=shadow_blue&card_width=200" />
+<div align="center">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbeabrowne&layout=compact&theme=shadow_blue&card_width=100" />
+  &nbsp
+  <img height=150 align="center" src="https://github.r2v.ch/codewars?user=lucybeabrowne&top_languages=true&theme=gradient_dark_by_level" />
 </div>
 
 <!--!
