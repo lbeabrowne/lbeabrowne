@@ -5,8 +5,11 @@
   <div id="badges" align="center">
     <br>
     <a href="https://www.linkedin.com/in/lucy-bea-browne/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" 
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=white&style=plastic" 
         alt="LinkedIn Button"/></a>
+    <a href="https://invited-pest-6fb.notion.site/UK-Health-Happiness-Project-19a97beee4ab80fd9fe4dc58a0a83ef9">
+      <img src="https://img.shields.io/badge/Portfolio-ef3b2c?logo=Notion&logoColor=white&style=plastic"
+        alt="Portfolio Button"/></a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=lbeabrowne&color=08519c" alt="Views Counter"/>
     <br>
