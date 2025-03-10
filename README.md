@@ -25,13 +25,12 @@ Data analyst aiming to expand my skills into the world of data science 💪
 - 🏃‍♀️ In my free time, I love to run and explore new areas
 
 ### 👩‍💻 My Skills:
-SQL | Python | ML | Looker Studio | Power BI | Google BigQuery | Google Sheets | Google Colab | Notion
+SQL | Python | ML | Excel | Looker Studio | Power BI | Google BigQuery | Google Sheets | Google Colab | Notion
 
 ### ⚡️ My Stats:
-Coming soon...
-<div align="center">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbeabrowne&layout=compact&theme=shadow_blue&card_width=100" />
-  &nbsp
+<div align="left">
+<!--   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbeabrowne&layout=compact&theme=shadow_blue&card_width=100" />
+  &nbsp -->
   <img height=150 align="center" src="https://github.r2v.ch/codewars?user=lucybeabrowne&top_languages=true&theme=gradient_dark_by_level" />
 </div>
 
