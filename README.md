@@ -22,6 +22,7 @@ Data analyst aiming to expand my skills into the world of data science 💪
 - 👩‍🔬 I have a background in Chemistry (PhD + industry experience)
 - 📍 I am based in London
 - 🌱 It makes me happy learning about science/tech which have potential to tackle climate-related issues
+- ✨ I am inspired by simplistic yet powerful visualisations such as "Warming Stripes" (by Ed Hawkins)
 - 🏃‍♀️ In my free time, I love to run and explore new areas
 
 ### 👩‍💻 My Skills:
